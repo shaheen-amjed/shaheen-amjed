@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./github.webp" alt="Shaheen's Banner" />
+  <img src="./github.webp" alt="Shaheen's Banner" width="1200" height="400" />
 </p>
+
 
 
 # 💫 About Me:
