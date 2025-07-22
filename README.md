@@ -1,6 +1,8 @@
 <p align="center">
   <img src="./github.webp" alt="Shaheen's Banner" />
 </p>
+
+
 # 💫 About Me:
 Hey! I’m Shaheen, a Sudanese 16yo self-taught and passionate Full-Stack Developer, tech explorer, and a forever learner. I love building useful, real-world projects — from websites and APIs to Arduino-based smart devices.<br>🧠 Skilled in Python, Node.js, React, Tailwind CSS, and SQL, and more.<br>💡 Currently learning ESP32, Arduino, and low-level programming to connect software with hardware.<br>🧰 I build full-stack apps, automation tools, personal projects, and experiment with emerging tech.<br>🛡️ Background in bug bounty hunting, with solid experience in web and API security.<br>⚡ I love challenges, fast prototyping, and turning small ideas into working products.<br>🌍 Sharing my journey one project at a time.<br>Let’s connect, collaborate, and code something cool together!
 
