@@ -22,10 +22,6 @@ a Sudanese 16yo self-taught and passionate Full-Stack Developer, tech explorer, 
 </p>
 <br />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shaheen-amjed&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shaheen-amjed&theme=rose&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheen-amjed&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=black)](https://paypal.me/DreamrsDevs) 
